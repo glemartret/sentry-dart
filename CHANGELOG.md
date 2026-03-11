@@ -6,6 +6,12 @@
 
 - Stop re-triggering hitTest in SentryUserInteractionWidget on pointerUp ([#3540](https://github.com/getsentry/sentry-dart/pull/3540))
 
+### Dependencies
+
+- Bump Native SDK from v0.12.8 to v0.13.2 ([#3](https://github.com/glemartret/sentry-dart/pull/3))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0132)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.12.8...0.13.2)
+
 ## 9.14.0
 
 ### Features
