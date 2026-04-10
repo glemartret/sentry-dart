@@ -6,6 +6,12 @@
 
 - Stop re-triggering hitTest in SentryUserInteractionWidget on pointerUp ([#3540](https://github.com/getsentry/sentry-dart/pull/3540))
 
+### Dependencies
+
+- Bump Cocoa SDK from v8.56.2 to v9.10.0 ([#4](https://github.com/glemartret/sentry-dart/pull/4))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#9100)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.56.2...9.10.0)
+
 ## 9.14.0
 
 ### Features
