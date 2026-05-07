@@ -69,6 +69,12 @@
   - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#8580)
   - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.56.2...8.58.0)
 
+### Dependencies
+
+- Bump JavaScript SDK from v10.38.0 to v10.49.0 ([#1](https://github.com/glemartret/sentry-dart/pull/1))
+  - [changelog](https://github.com/getsentry/sentry-javascript/blob/develop/CHANGELOG.md#10490)
+  - [diff](https://github.com/getsentry/sentry-javascript/compare/10.38.0...10.49.0)
+
 ## 9.14.0
 
 ### Features
